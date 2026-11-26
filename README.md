@@ -11,6 +11,7 @@
 
 ###
 
+
 <div align="left">
   <img src="https://www.kali.org/docs/policy/trademark/kali-dragon-tm.png" height="40" alt="kali logo"  />
   <img width="12" />
@@ -54,8 +55,25 @@
   <img width="12" />
 </div>
 
+<br>
 
+<p align="left">
+  <a href="https://app.hackthebox.com/public/users/3781389"><img src="https://img.shields.io/badge/HackTheBox-L0v3l4c3-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+  <a href="https://tryhackme.com/p/L0v3l4c3"><img src="https://img.shields.io/badge/TryHackMe-L0v3l4c3-7B2CBF?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://ctftime.org/team/451869"><img src="https://img.shields.io/badge/CTFtime-f0rk(3)%3B-C11111?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/gramedsan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
+<h3>🏆 Highlights</h3>
+
+- 🥇 1st place — CTFWEEK 2026
+- 🚩 Playing CTFs with f0rk(3);
+- 💜 Member of Women in CyberSecurity (WiCyS) and WOMCY — LATAM Women in Cybersecurity
+
+<h3>🔭 Currently</h3>
+
+- 🤖 Building **HackBot CTF**, a CTF automation orchestrator
+- 📚 Grinding HTB, THM & OffSec labs
 
 
 
