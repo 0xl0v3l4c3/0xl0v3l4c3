@@ -67,7 +67,7 @@
 <h3>🏆 Highlights</h3>
 
 - 🥇 1st place — CTFWEEK 2026
-- :brazil: Top 5 in Brazil on CTFtime with AsylumBR / f0rk(3);
+- <img src="https://flagcdn.com/w20/br.png" height="14" alt="Brazil" /> Top 5 in Brazil on CTFtime with AsylumBR / f0rk(3);
 - 💜 Member of Women in CyberSecurity (WiCyS) and WOMCY — LATAM Women in Cybersecurity
 
 <h3>🔭 Currently</h3>
