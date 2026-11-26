@@ -42,9 +42,9 @@
   <img width="12" />
   <img src="https://www.kali.org/tools/gdb/images/gdb-logo.svg" height="40" alt="gdb logo"  />
   <img width="12" />
-  <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" height="40" alt="gobuster logo"  />
+  <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" height="40" alt="aircrack-ng logo"  />
   <img width="12" />
-  <img src="https://www.kali.org/tools/sherlock/images/sherlock-logo.svg" height="40" alt="maltego logo"  />
+  <img src="https://www.kali.org/tools/sherlock/images/sherlock-logo.svg" height="40" alt="sherlock logo"  />
   <img width="12" />
   <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" height="40" alt="sqlmap logo"  />
   <img width="12" />
