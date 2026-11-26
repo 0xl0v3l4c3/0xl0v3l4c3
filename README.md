@@ -104,6 +104,10 @@
   <img width="12" />
   <img src="https://www.kali.org/tools/gophish/images/gophish-logo.svg" height="40" alt="exploitdb logo"  />
   <img width="12" />
+  <img src="https://www.kali.org/tools/set/images/set-logo.svg" height="40" alt="exploitdb logo"  />
+  <img width="12" />
+  <img src="https://www.kali.org/tools/gophish/images/gophish-logo.svg" height="40" alt="exploitdb logo"  />
+  <img width="12" />
 </div>
 
 
