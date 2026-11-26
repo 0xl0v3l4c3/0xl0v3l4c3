@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"><b>Penetration Tester | Ethical Hacker | Cybersecurity Analyst | CTF Player @ <a href="https://ctftime.org/team/451869">f0rk(3);</a></b></p>
+<p align="left">Ada wrote the first algorithm. I write exploits to break the rest. 🚩 Capturing flags with <a href="https://ctftime.org/team/451869">f0rk(3);</a></p>
 
 
 ###
@@ -67,7 +67,7 @@
 <h3>🏆 Highlights</h3>
 
 - 🥇 1st place — CTFWEEK 2026
-- 🚩 Playing CTFs with f0rk(3);
+- :brazil: Top 5 in Brazil on CTFtime with AsylumBR / f0rk(3);
 - 💜 Member of Women in CyberSecurity (WiCyS) and WOMCY — LATAM Women in Cybersecurity
 
 <h3>🔭 Currently</h3>
