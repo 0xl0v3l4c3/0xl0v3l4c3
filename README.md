@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Ada wrote the first algorithm. I write exploits to break the rest. 🚩 Capturing flags with <a href="https://ctftime.org/team/451869">f0rk(3);</a></p>
+<p align="left">Ada wrote the first algorithm. I write the exploits that break it. 🚩 Capturing flags with <a href="https://ctftime.org/team/451869">f0rk(3);</a></p>
 
 
 ###
